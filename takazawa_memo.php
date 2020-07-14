@@ -30,3 +30,7 @@ $_SESSION['kazu'] = $kazu;
 if():
 
 endif;
+
+if():
+
+endif;
