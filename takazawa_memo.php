@@ -26,3 +26,7 @@ $kazu[] = 1;
 $_SESSION['cart'] = $cart;
 $_SESSION['kazu'] = $kazu;
 
+
+if():
+
+endif;
